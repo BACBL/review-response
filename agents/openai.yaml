@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Response"
+  short_description: "Draft rigorous peer-review response packages"
+  default_prompt: "Draft a point-by-point response to these reviewer comments. Preserve each comment, map claims to supplied evidence, and flag missing facts as AUTHOR_INPUT_NEEDED."
